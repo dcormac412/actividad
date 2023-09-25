@@ -57,10 +57,6 @@ https://github.com/dcormac412/actividad/blob/main/convertido.html
 
 ![image](https://github.com/dcormac412/actividad/blob/main/HD-wallpaper-lion-pc-leon-fondo-de-pantalla-produccion-artistica-arte-de-mascotas-colorful-lion.jpg?raw=true)
 
-![This is an alt text.](/image/sample.png "This is a sample image.")
-
-![imagen html](/practica.jpg "html imagen")
-
 
 ## Añadiendo una tabla 
 

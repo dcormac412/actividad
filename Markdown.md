@@ -45,13 +45,7 @@ https://www.linkedin.com/feed/
 
 #### Enlace externo a mi perfil de GitHub.
 
-https://github.com/dcormac412/actividad/edit/main/Markdown.md#vamos-a-poner-un-ejemplo-de-hola-mundo-con-java
-
-
-
-#### Enlace a un fichero.
-
-https://github.com/dcormac412/actividad/blob/main/convertido.html
+https://github.com/dcormac412/actividad
 
 ## Añadiendo una imagen
 

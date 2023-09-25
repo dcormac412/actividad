@@ -41,17 +41,22 @@ Markdown fue desarrollado en 2004 por John Gruber, y se refiere tanto a (1) una 
 
 #### Enlace a una url externa que, en este caso, será mi perfil de linkedin.
 
-Visita mi [perfil](www.linkedin.com/in/daniel-cortés-macías-11a732287).
+https://www.linkedin.com/feed/
+
+#### Enlace externo a mi perfil de GitHub.
+
+https://github.com/dcormac412/actividad/edit/main/Markdown.md#vamos-a-poner-un-ejemplo-de-hola-mundo-con-java
+
+
 
 #### Enlace a un fichero.
 
-[Local](EnlaceActividad.md)
+https://github.com/dcormac412/actividad/blob/main/convertido.html
 
 ## Añadiendo una imagen
 
-![This is an alt text.](/image/sample.png "This is a sample image.")
+![image](https://github.com/dcormac412/actividad/blob/main/HD-wallpaper-lion-pc-leon-fondo-de-pantalla-produccion-artistica-arte-de-mascotas-colorful-lion.jpg?raw=true)
 
-![imagen html](/practica.jpg "html imagen")
 
 ## Añadiendo una tabla 
 

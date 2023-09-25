@@ -51,7 +51,7 @@ https://github.com/dcormac412/actividad/edit/main/Markdown.md#vamos-a-poner-un-e
 
 #### Enlace a un fichero.
 
-(EnlaceActividad.md)
+https://github.com/dcormac412/actividad/blob/main/convertido.html
 
 ## Añadiendo una imagen
 

@@ -45,7 +45,7 @@ https://www.linkedin.com/feed/
 
 #### Enlace externo a mi perfil de GitHub.
 
-https://github.com/dcormac412/actividad
+https://github.com/dcormac412
 
 #### Enlace a otra carpeta Markdown dentro del mismo repositorio
 

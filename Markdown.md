@@ -59,6 +59,8 @@ https://github.com/dcormac412/actividad/blob/main/convertido.html
 
 ![imagen html](/practica.jpg "html imagen")
 
+https://github.com/dcormac412/actividad/blob/main/HD-wallpaper-lion-pc-leon-fondo-de-pantalla-produccion-artistica-arte-de-mascotas-colorful-lion.jpg?raw=true
+
 ## Añadiendo una tabla 
 
 | HTML | XML |

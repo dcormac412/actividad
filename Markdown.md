@@ -55,6 +55,8 @@ https://github.com/dcormac412/actividad/blob/main/convertido.html
 
 ## Añadiendo una imagen
 
+(https://www.google.com/search?sca_esv=568110489&sxsrf=AM9HkKkmeklDZfRvqEOBPEJAyeaDog_fig:1695624434137&q=java&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj-xsaglcWBAxW3UaQEHY9jBvoQ0pQJegQIFxAB&biw=1920&bih=923&dpr=1#imgrc=H2odPhR6gECXbM)
+
 ![This is an alt text.](/image/sample.png "This is a sample image.")
 
 ![imagen html](/practica.jpg "html imagen")

@@ -47,6 +47,10 @@ https://www.linkedin.com/feed/
 
 https://github.com/dcormac412/actividad
 
+#### Enlace a otra carpeta Markdown dentro del mismo repositorio
+
+https://github.com/dcormac412/actividad/blob/main/EnlanceActividad.md
+
 ## Añadiendo una imagen
 
 ![image](https://github.com/dcormac412/actividad/blob/main/HD-wallpaper-lion-pc-leon-fondo-de-pantalla-produccion-artistica-arte-de-mascotas-colorful-lion.jpg?raw=true)
